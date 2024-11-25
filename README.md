@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/sawan-darekar-8a872019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)]([https://leetcode.com/your-username](https://leetcode.com/u/sawandarekar/))
-
+<a href="https://leetcode.com/u/sawandarekar/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)" alt="twitter" height="30" width="40" /></a>
 </p>
-
 ---
 ⭐️ From [sawandarekar](https://github.com/sawandarekar)
